@@ -5,29 +5,29 @@ on:
   branches: 'main'
 
 jobs:
-  build_site:
-  runs-on: ubuntu-latest
-    steps:
+  build:
+    runs-on: ubuntu-latest
+      steps:
       - name: Checkout
-      uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
-      # If you're using pnpm, add this step then change the commands and cache key below to use `pnpm`
-      # - name: Install pnpm
-      #   uses: pnpm/action-setup@v2
-      #   with:
-      #     version: 8
+        # If you're using pnpm, add this step then change the commands and cache key below to use `pnpm`
+        # - name: Install pnpm
+        #   uses: pnpm/action-setup@v2
+        #   with:
+        #     version: 8
 
       - name: Install Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 18
-        cache: npm
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
 
       - name: Install dependencies
-      run: npm install
+        run: npm install
 
       - name: build
-      env:
+        env:
         BASE_PATH: '/android-compatible-mods'
       run: |
         npm run build
