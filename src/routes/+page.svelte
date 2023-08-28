@@ -8,7 +8,7 @@
 
 <h1>Android Compatible Mod List</h1>
 <!-- <h3>Find a mod that's not on the list? View details <a on:click={() => window.open("")} href="">here</a>!</h3> -->
-<h3>Find a mod that's not on the list? Submit it <a href="https://github.com/stardewrocks/android-compatible-mods" target="_blank">here</a>!</h3>
+<h3>Find a mod that's not on the list? Submit it <a href="https://github.com/stardewrocks/android-compatible-mods/issues" target="_blank">here</a>!</h3>
 
 <table>
     <thead>
