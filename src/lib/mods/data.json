@@ -51,5 +51,33 @@
             "working": "https://cdn.discordapp.com/attachments/1131892653148082196/1132722140689477685/StardewValleyExpanded_1.14.1-mobiletest.zip"
         },
         "notes": ""
+    },
+    {
+        "name": "Unique Children",
+        "versions": {
+            "latest": "3.2",
+            "working": "3.2"
+        },
+        "working": "alternate_version",
+        "uniqueid": "shaklin.uniquechildren",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75112&game_id=1303",
+            "working": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75113&game_id=1303"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Prismatic Slime Finder",
+        "versions": {
+            "latest": "1.2.0",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "MrKoatl.PrismaticSlimeFinder",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/7866?tab=files&file_id=37685",
+            "working": null
+        },
+        "notes": "Doesn't work for PC either."
     }
 ]
