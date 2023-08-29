@@ -2,6 +2,10 @@
 
 A list of mods that are compatible (or not!) with Android SMAPI.
 
+## Where to see the list
+
+It's linked on the sidebar twice, but it's [https://android.stardew.rocks](https://android.stardew.rocks)
+
 ## How to submit a mod
 
 1. Create an issue at [the issues tab](https://github.com/stardewrocks/android-compatible-mods/issues)
