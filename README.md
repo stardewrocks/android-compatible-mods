@@ -17,5 +17,5 @@ It's linked on the sidebar twice, but it's [https://android.stardew.rocks](https
     - Latest Download link
     - Working version
     - Latest version
-    - Your SMAPI log (view details at https://smapi.io/log)
+    - Your SMAPI log (view details at <https://smapi.io/log>)
 3. Submit the issue and wait for it to be approved
