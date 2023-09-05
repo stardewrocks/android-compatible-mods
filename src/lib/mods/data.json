@@ -79,5 +79,18 @@
             "working": null
         },
         "notes": "Doesn't work for PC either."
+    },
+    {
+        "name": "VPR-Inspired UI",
+        "versions" : {
+            "latest": "1.2",
+            "working": "1.2"
+        },
+        "working": "fully",
+        "uniqueid": "Dora.VPRUI",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75045&game_id=1303",
+            "working": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75045&game_id=1303"
+        }
     }
 ]
