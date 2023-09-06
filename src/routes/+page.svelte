@@ -13,7 +13,7 @@
 <h3>Find a mod that's not on the list? Follow <a href="https://github.com/stardewrocks/android-compatible-mods#readme" target="_blank">this guide</a> to  submit it!</h3>
 
 <div id="search">
-    <input bind:value={modSearchQuery} placeholder="Framework" />
+    <input bind:value={modSearchQuery} placeholder="Stardew V..." />
 </div>
 
 <table>
