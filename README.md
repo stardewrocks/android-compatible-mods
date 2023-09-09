@@ -22,4 +22,4 @@ It's linked on the sidebar twice, but it's [https://android.stardew.rocks](https
 
 If you are knowledgeable in JSON and understand how `src/lib/mods/data.json` works, feel free to submit a PR.
 
-If you have an existing list and want to cross-reference, the CSV of non-XNB mods (as of 28/6/23) that I compiled based on Pathoschild's mod dump can be found [here](lib/mods/smapi-mods-on-nexus-28_6_23.csv)
+If you have an existing list and want to cross-reference, the CSV of non-XNB mods on Nexusmods (as of 28/6/23) that I compiled based on Pathoschild's mod dump can be found [here](lib/mods/smapi-mods-on-nexus-28_6_23.csv)
