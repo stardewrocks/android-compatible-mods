@@ -3,7 +3,7 @@
     <a href="https://www.nexusmods.com/stardewvalley/mods/7416">Custom Menu Background</a>
 </p>
 
-<p class="icon">
+<p class="icon-credit">
     Favicon by Arcane    
 </p>
 
@@ -18,7 +18,7 @@
         left: 0;
         text-align: center;
 
-        &.icon {
+        &.icon-credit {
             margin: 0 4px;
         }
     }
