@@ -15,8 +15,8 @@ It's linked on the sidebar twice, but it's [https://android.stardew.rocks](https
     - Working Status (`not_working`, `alternate_version`, `fully`, `old_version`)
     - Working Download link
     - Latest Download link
-    - Working version
-    - Latest version
+    - Working version (of the mod)
+    - Latest version (of the mod)
     - Your SMAPI log (view details at <https://smapi.io/log>)
 3. Submit the issue and wait for it to be approved
 

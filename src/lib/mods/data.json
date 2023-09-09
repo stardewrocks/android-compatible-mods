@@ -92,5 +92,60 @@
             "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75045&game_id=1303",
             "working": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75045&game_id=1303"
         }
+    },
+    {
+        "name": "Custom Farm Loader",
+        "versions" : {
+            "latest": "1.1.6",
+            "working": "1.1.6-alpha.1"
+        },
+        "working": "fully",
+        "uniqueid": "DeLiXx.Custom_Farm_Loader",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75628&game_id=1303",
+            "working": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75628&game_id=1303"
+        }
+    },
+    {
+        "name": "Climates of Ferngill",
+        "versions": {
+            "latest": "2.0.0-beta.2",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "KoihimeNakamura.FerngillCustomWeathers",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=38106&game_id=1303",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Daily Planner",
+        "versions": {
+            "latest": "1.2.2",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "MevNav.DailyPlanner",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=72149&game_id=1303",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "To-Dew",
+        "versions": {
+            "latest": "1.2.2",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "jltaylor-us.ToDew",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=74733&game_id=1303",
+            "working": null
+        },
+        "notes": ""
     }
 ]
