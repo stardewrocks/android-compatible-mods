@@ -147,5 +147,18 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "Stardew Valley Reimagined 3",
+        "versions" : {
+            "latest": "1.0.5",
+            "working": "1.0.5"
+        },
+        "working": "fully",
+        "uniqueid": "DaisyNiko.SVR3",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=60311&game_id=1303",
+            "working": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=60311&game_id=1303"
+        }
     }
 ]
