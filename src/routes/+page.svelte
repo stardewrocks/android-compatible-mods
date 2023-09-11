@@ -54,28 +54,33 @@
                             <span>N/A</span>
                         {/if}
                     </td>
-                    <td
-                        use:tooltip={{
-                            content: mod.notes ? mod.notes : "None",
-                            placement: "top",
-                            delay: 0,
-                            target: "body",
-                        }}
-                        on:click={(e) => {
-                            //trigger a mouseenter event to show the tooltip
-                            const enter = new MouseEvent('mouseenter');
-                            enter.initEvent('mouseenter', true, true);
-                            e.target?.dispatchEvent(enter);
+                    {#if mod.notes}
+                        <td
+                            use:tooltip={{
+                                content: mod.notes ? mod.notes : "None",
+                                placement: "top",
+                                delay: 0,
+                                target: "body",
+                            }}
+                            on:click={(e) => {
+                                //trigger a mouseenter event to show the tooltip
+                                const enter = new MouseEvent('mouseenter');
+                                enter.initEvent('mouseenter', true, true);
+                                e.target?.dispatchEvent(enter);
 
-                            setTimeout(() => {
-                                //trigger a mouseleave event to hide the tooltip
-                                const leave = new MouseEvent('mouseleave');
-                                leave.initEvent('mouseleave', true, true);
-                                e.target?.dispatchEvent(leave);
-                            }, 2000);
-                            
-                        }}
-                    >Press for notes</td>
+                                setTimeout(() => {
+                                    //trigger a mouseleave event to hide the tooltip
+                                    const leave = new MouseEvent('mouseleave');
+                                    leave.initEvent('mouseleave', true, true);
+                                    e.target?.dispatchEvent(leave);
+                                }, 2000);
+                                
+                            }}
+                        >Press for notes</td>
+                    {:else}
+                        <td>N/A</td>
+                    {/if}
+                    
                 </tr>
             {/if}
         {/each}
