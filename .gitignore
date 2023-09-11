@@ -9,4 +9,4 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 scripts/parse_mobilemods_2.2
-scripts/
+#scripts/
