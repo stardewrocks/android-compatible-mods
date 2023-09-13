@@ -1086,16 +1086,16 @@
         "notes": ""
     },
     {
-        "name": "Vanilla Tweaks",
+        "name": "SpriteMaster",
         "versions": {
-            "latest": "1.1.0",
-            "working": "1.1.0"
+            "latest": "0.15.0-Beta.16",
+            "working": null
         },
-        "working": "fully",
-        "uniqueid": "Taiyo.VanillaTweaks",
+        "working": "not_working",
+        "uniqueid": "DigitalCarbide.SpriteMaster",
         "link": {
-            "latest": "https://www.nexusmods.com/stardewvalley/mods/10852?tab=files&file_id=59439",
-            "working": "https://www.nexusmods.com/stardewvalley/mods/10852?tab=files&file_id=59439"
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=66532&game_id=1303",
+            "working": null
         },
         "notes": ""
     }
