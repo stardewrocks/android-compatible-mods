@@ -1098,5 +1098,19 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "Love Festival",
+        "versions": {
+            "latest": "1.1.2",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "AvalonMFX.LoveFestival",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/17819?tab=files&file_id=75476",
+            "working": null
+        },
+        "notes": ""
     }
 ]
