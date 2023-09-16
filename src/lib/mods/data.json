@@ -1378,5 +1378,47 @@
             "working": "https://www.nexusmods.com/stardewvalley/mods/1254?tab=files"
         },
         "notes": ""
+    },
+    {
+        "name": "Solid Foundations",
+        "versions": {
+            "latest": "1.16.0",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "PeacefulEnd.SolidFoundations",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=72186&game_id=1303",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Unlockable Bundles",
+        "versions": {
+            "latest": "2.0.9",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "DLX.Bundles",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/17265?tab=files&file_id=75947",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Bigger Backpack",
+        "versions": {
+            "latest": "6.0",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "spacechase0.BiggerBackpack",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=64048&game_id=1303",
+            "working": null
+        },
+        "notes": ""
     }
 ]
