@@ -1322,5 +1322,19 @@
             "working": "https://www.nexusmods.com/stardewvalley/mods/8284?tab=files&file_id=72512"
         },
         "notes": ""
+    },
+    {
+        "name": "Save Anywhere",
+        "versions": {
+            "latest": "3.2.7",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "Omegasis.SaveAnywhere",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=75242&game_id=1303",
+            "working": null
+        },
+        "notes": "use built-in mid-day saves instead (backup saves)"
     }
 ]
