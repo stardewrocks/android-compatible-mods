@@ -1112,5 +1112,215 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "DaisyNiko's Earthy Interface",
+        "versions": {
+            "latest": "1.0.2",
+            "working": " 1.0.2"
+        },
+        "working": "fully",
+        "uniqueid": "DaisyNiko.EarthyInterface",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/13658?tab=files",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/13658?tab=files"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Gwen's Paths",
+        "versions": {
+            "latest": "1.0",
+            "working": "1.0"
+        },
+        "working": "fully",
+        "uniqueid": "Gweniaczek.Gwens_paths",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/8683?tab=files&file_id=41066",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/8683?tab=files&file_id=41066"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Industrial Kitchen and Interior",
+        "versions": {
+            "latest": "1.7.0",
+            "working": "1.7.0"
+        },
+        "working": "fully",
+        "uniqueid": "DustBeauty.IndustrialKitchen",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/5351?tab=files&file_id=34442",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/5351?tab=files&file_id=34442"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Medieval Buildings",
+        "versions": {
+            "latest": "2.1.0",
+            "working": "2.1.0"
+        },
+        "working": "fully",
+        "uniqueid": "Gweniaczek.Medieval_buildings",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/4542?tab=files&file_id=49193",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/4542?tab=files&file_id=49193"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Gwen's Medieval Craftables",
+        "versions": {
+            "latest": "2.4.0",
+            "working": "2.4.0"
+        },
+        "working": "fully",
+        "uniqueid": "Gweniaczek.Medieval_buildings",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/5513?tab=files&file_id=47355",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/5513?tab=files&file_id=47355"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Stable and Tractor Garage",
+        "versions": {
+            "latest": "2.0.0",
+            "working": "2.0.0"
+        },
+        "working": "fully",
+        "uniqueid": "Gweniaczek.Medieval_stables",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/5438?tab=files&file_id=46948",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/5438?tab=files&file_id=46948"
+        },
+        "notes": ""
+    },
+    {
+        "name": "MissCoriel's NPC Unique Courtship Response 5 - Gifting Friends",
+        "versions": {
+            "latest": "5.0.0",
+            "working": "5.0.0"
+        },
+        "working": "fully",
+        "uniqueid": "misscoriel.courtship",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/3312?tab=files&file_id=44774",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/3312?tab=files&file_id=44774"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Mal's Sebastian Expansion with Post Marriage Events",
+        "versions": {
+            "latest": "1.0.9",
+            "working": "1.0.9"
+        },
+        "working": "fully",
+        "uniqueid": "mal.SebastionExpansion",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/2060?tab=files&file_id=11122",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/2060?tab=files&file_id=11122"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Way Back Pelican Town",
+        "versions": {
+            "latest": "1.4.0",
+            "working": "1.4.0"
+        },
+        "working": "fully",
+        "uniqueid": "Gweniaczek.WayBackPT",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/7332?tab=files&file_id=35518",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/7332?tab=files&file_id=35518"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Mobile Catalogues",
+        "versions": {
+            "latest": "0.9.1",
+            "working": "0.9.1"
+        },
+        "working": "fully",
+        "uniqueid": "aedenthorn.MobileCatalogues",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/6543?tab=files&file_id=50779",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/6543?tab=files&file_id=50779"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Mobile Phone",
+        "versions": {
+            "latest": "3.2.1",
+            "working": "3.2.1"
+        },
+        "working": "fully",
+        "uniqueid": "aedenthorn.MobileCJBCheats",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/6523?tab=files&file_id=29803",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/6523?tab=files&file_id=29803"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Reset Terrain Features (Unofficial Update)",
+        "versions": {
+            "latest": "unofficial.1-esca",
+            "working": "unofficial.1-esca"
+        },
+        "working": "fully",
+        "uniqueid": "MabelSyrup.ResetTerrainFeatures",
+        "link": {
+            "latest": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-64#post-43678",
+            "working": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-64#post-43678"
+        },
+        "notes": "UniqueID is from the original mod."
+    },
+    {
+        "name": "Seed Maker - Better quality more seeds",
+        "versions": {
+            "latest": "1.3.3",
+            "working": "1.3.3"
+        },
+        "working": "fully",
+        "uniqueid": " vabrell.sm_bqms",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/14236?tab=files&file_id=68270",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/14236?tab=files&file_id=68270"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Easy Prairie King - Journey of the Prairie King Difficulty Changer (Fastest Fector's Challenge achievement)",
+        "versions": {
+            "latest": "0.6.1",
+            "working": "0.6.1"
+        },
+        "working": "fully",
+        "uniqueid": "shanks3042.StardewValleyEasyPrairieKing",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/5816?tab=files&file_id=42415",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/5816?tab=files&file_id=42415"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Miss Coriel's Unique Courtship Response CORE",
+        "versions": {
+            "latest": "2.1.4",
+            "working": "2.1.4"
+        },
+        "working": "fully",
+        "uniqueid": "misscoriel.UCRFix",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/8284?tab=files&file_id=72512",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/8284?tab=files&file_id=72512"
+        },
+        "notes": ""
     }
 ]
