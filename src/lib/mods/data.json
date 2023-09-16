@@ -1336,5 +1336,19 @@
             "working": null
         },
         "notes": "use built-in mid-day saves instead (backup saves)"
+    },
+    {
+        "name": "Chests Anywhere",
+        "versions": {
+            "latest": "1.22.7",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "Pathoschild.ChestsAnywhere",
+        "link": {
+            "latest": "https://www.nexusmods.com/Core/Libs/Common/Widgets/ModRequirementsPopUp?id=72683&game_id=1303",
+            "working": null
+        },
+        "notes": ""
     }
 ]
