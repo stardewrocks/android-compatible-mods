@@ -1350,5 +1350,33 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "Industrial Furniture Set - for CP & CF",
+        "versions": {
+            "latest": "1.8",
+            "working": "1.8"
+        },
+        "working": "fully",
+        "uniqueid": "DustBeauty.IndustrialFurnitureSet",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/5444?tab=files",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/5444?tab=files"
+        },
+        "notes": ""
+    },
+    {
+        "name": "Custom Furniture",
+        "versions": {
+            "latest": "1.14.3",
+            "working": "1.14.3"
+        },
+        "working": "fully",
+        "uniqueid": "Platonymous.CustomFurniture",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/1254?tab=files",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/1254?tab=files"
+        },
+        "notes": ""
     }
 ]
