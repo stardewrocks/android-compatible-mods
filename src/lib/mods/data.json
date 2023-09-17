@@ -1560,5 +1560,19 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "Unlockable Bundles",
+        "versions": {
+            "latest": "2.0.9",
+            "working": "2.0.9"
+        },
+        "working": "fully",
+        "uniqueid": "DLX.Bundles",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/17265?tab=files",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/17265?tab=files"
+        },
+        "notes": ""
     }
 ]
