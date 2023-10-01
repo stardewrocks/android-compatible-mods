@@ -1616,5 +1616,19 @@
             "working": null
         },
         "notes": ""
+        },
+    {
+        "name": "Dynamic Game Assets",
+        "versions": {
+            "latest": "1.4.4",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "spacechase0.DynamicGameAssets",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/9365",
+            "working": null
+        },
+        "notes": ""
     }
 ]
