@@ -1606,7 +1606,7 @@
     {
         "name": "NPC Adventures",
         "versions": {
-            "latest": 1.0.2",
+            "latest": "1.0.2",
             "working": null
         },
         "working": "not_working",
