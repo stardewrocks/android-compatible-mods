@@ -1394,20 +1394,6 @@
         "notes": ""
     },
     {
-        "name": "Unlockable Bundles",
-        "versions": {
-            "latest": "2.0.9",
-            "working": null
-        },
-        "working": "not_working",
-        "uniqueid": "DLX.Bundles",
-        "link": {
-            "latest": "https://www.nexusmods.com/stardewvalley/mods/17265?tab=files&file_id=75947",
-            "working": null
-        },
-        "notes": ""
-    },
-    {
         "name": "Bigger Backpack",
         "versions": {
             "latest": "6.0",
@@ -1599,6 +1585,34 @@
         "uniqueid": "spacechase0.CarryChest",
         "link": {
             "latest": "https://www.nexusmods.com/stardewvalley/mods/1333?tab=files&file_id=48393",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Fashion Sense",
+        "versions": {
+            "latest": "5.8.1",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "PeacefulEnd.FashionSense",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/9969",
+            "working": null
+        },
+        "notes": "This also means no FS packs will work!"
+    },
+    {
+        "name": "NPC Adventures",
+        "versions": {
+            "latest": 1.0.2",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "purrplingcat.npcadventure",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/4582"
             "working": null
         },
         "notes": ""
