@@ -1616,7 +1616,7 @@
             "working": null
         },
         "notes": ""
-        },
+    },
     {
         "name": "Dynamic Game Assets",
         "versions": {
@@ -1627,6 +1627,34 @@
         "uniqueid": "spacechase0.DynamicGameAssets",
         "link": {
             "latest": "https://www.nexusmods.com/stardewvalley/mods/9365",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Better Friendship",
+        "versions": {
+            "latest": "1.0.6",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "BetterFriendship",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/10287",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "AutoFish",
+        "versions": {
+            "latest": "1.5.1",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "WhiteMind.AF",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/1895",
             "working": null
         },
         "notes": ""
