@@ -1658,5 +1658,103 @@
             "working": null
         },
         "notes": ""
+    },
+    {
+        "name": "Sound Tweaker",
+        "versions": {
+            "latest": "0.4.0",
+            "working": null
+        },
+        "working": "not_working",
+        "uniqueid": "aedenthorn.SoundTweaker",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/14767",
+            "working": null
+        },
+        "notes": ""
+    },
+    {
+        "name": "Skull Cavern Elevator",
+        "versions": {
+            "latest": "1.5.0",
+            "working": "1.5.0",
+        },
+        "working": "fully",
+        "uniqueid": "SkullCavernElevator",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/963",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/963",
+        },
+        "notes": ""
+    },
+    {
+        "name": "Farming Made Easy",
+        "versions": {
+            "latest": "5.0.3",
+            "working": "5.0.3",
+        },
+        "working": "fully",
+        "uniqueid": "EricLegacy.FarmingMadeEasy",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/4130",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/4130",
+        },
+        "notes": ""
+    },
+    {
+        "name": "Combat Made Easy Suite",
+        "versions": {
+            "latest": "5.0.1",
+            "working": "5.0.1",
+        },
+        "working": "fully",
+        "uniqueid": "EricLegacy.CombatMadeEasy",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/4227",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/4227",
+        },
+        "notes": ""
+    },
+    {
+        "name": "Fising Made Easy Suite",
+        "versions": {
+            "latest": "5.0.3",
+            "working": "5.0.3",
+        },
+        "working": "fully",
+        "uniqueid": "Ericlegacy.FishingmadeEasy",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/3623",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/3623",
+        },
+        "notes": ""
+    },
+    {
+        "name": "Faster Events",
+        "versions": {
+            "latest": "1.0.1",
+            "working": "1.0.1",
+        },
+        "working": "fully",
+        "uniqueid": "libraryaddict.FasterEvents",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/7631",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/7631",
+        },
+        "notes": ""
+    },
+    {
+        "name": "Free Love",
+        "versions": {
+            "latest": "1.2.9",
+            "working": "1.2.9",
+        },
+        "working": "fully",
+        "uniqueid": "aedenthorn.FreeLove",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/10021",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/10021",
+        },
+        "notes": ""
     }
 ]
