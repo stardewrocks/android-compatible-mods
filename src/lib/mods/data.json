@@ -1635,13 +1635,13 @@
         "name": "Better Friendship",
         "versions": {
             "latest": "1.0.6",
-            "working": null
+            "working": "1.0.1"
         },
-        "working": "not_working",
+        "working": "old_version",
         "uniqueid": "BetterFriendship",
         "link": {
             "latest": "https://www.nexusmods.com/stardewvalley/mods/10287",
-            "working": null
+            "working": "https://www.nexusmods.com/stardewvalley/mods/10287"
         },
         "notes": ""
     },
@@ -1756,5 +1756,20 @@
             "working": "https://www.nexusmods.com/stardewvalley/mods/10021"
         },
         "notes": ""
+    },
+    {
+        "name": "Alternative Textures",
+        "versions": {
+            "latest": "6.10.2",
+            "working": "6.9.1"
+        },
+        "working": "old_version",
+        "uniqueid": "PeacefulEnd.AlternativeTextures",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/9246",
+            "working": "https://github.com/Floogen/AlternativeTextures/releases/tag/v6.9.1"
+        },
+        "notes": ""
     }
+
 ]
