@@ -1770,5 +1770,19 @@
             "working": "https://github.com/Floogen/AlternativeTextures/releases/tag/v6.9.1"
         },
         "notes": ""
+    },
+        {
+        "name": "Happy Birthday",
+        "versions": {
+            "latest": "3.17.3",
+            "working": "3.17.3"
+        },
+        "working": "fully",
+        "uniqueid": "Omegasis.HappyBirthday",
+        "link": {
+            "latest": "https://www.nexusmods.com/stardewvalley/mods/520",
+            "working": "https://www.nexusmods.com/stardewvalley/mods/520"
+        },
+        "notes": "Some menu UIs may appear out-of-screen or you may be unable to correct the zoom level. See the comments on the mod's Nexus page for possible solutions/fixes."
     }
 ]
